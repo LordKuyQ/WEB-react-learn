@@ -1,5 +1,9 @@
-[Ссылка на Гит ](https://github.com/goryachkinama/web-lectures/blob/main/program-1-2025.md)
-[Ссылка на Задание 1](https://github.com/goryachkinama/web-lectures/blob/main/src/lab_9_react.md)
-[Ссылка на Задание 2](https://github.com/goryachkinama/web-lectures/blob/main/src/lab_10_react_hooks.md)
-[Ссылка на Задание 3](https://github.com/goryachkinama/web-lectures/blob/main/src/lab_react_forms.md)
-[Ссылка на Задание 4](https://github.com/goryachkinama/web-lectures/blob/main/src/lab_react_network.md)
+- [Ссылка на Гит ](https://github.com/goryachkinama/web-lectures/blob/main/program-1-2025.md)
+- 
+- [Ссылка на Задание 1](https://github.com/goryachkinama/web-lectures/blob/main/src/lab_9_react.md)
+- 
+- [Ссылка на Задание 2](https://github.com/goryachkinama/web-lectures/blob/main/src/lab_10_react_hooks.md)
+- 
+- [Ссылка на Задание 3](https://github.com/goryachkinama/web-lectures/blob/main/src/lab_react_forms.md)
+- 
+- [Ссылка на Задание 4](https://github.com/goryachkinama/web-lectures/blob/main/src/lab_react_network.md)
