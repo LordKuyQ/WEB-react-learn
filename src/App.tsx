@@ -10,6 +10,7 @@ import ShowSimple from './ShowSimple';
 import TrafficLight from './TrafficLight';
 import WaveString from './WaveString';
 import CitySelecter from './CitySelecter';
+import SecondsOfLife from './SecondsOfLife';
 
 function App() {
   return (
@@ -25,6 +26,7 @@ function App() {
     <TrafficLight></TrafficLight> 
     <WaveString s="Привет!"></WaveString>
     <CitySelecter></CitySelecter>
+    <SecondsOfLife></SecondsOfLife>
     </div>
   );
 }
