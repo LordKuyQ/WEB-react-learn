@@ -9,8 +9,6 @@ function Temperature({ t }: { t: number }) {
     tColor = "rgb(25, 12, 125)";
   }
 
-  
-
   return (
     <div className="Temperature">
       <p style={{ color: tColor }}>Temperature = {t}</p>

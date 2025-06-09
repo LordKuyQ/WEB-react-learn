@@ -9,6 +9,7 @@ import CounterTo8 from './CounterTo8';
 import ShowSimple from './ShowSimple';
 import TrafficLight from './TrafficLight';
 import WaveString from './WaveString';
+import CitySelecter from './CitySelecter';
 
 function App() {
   return (
@@ -23,6 +24,7 @@ function App() {
     <ShowSimple></ShowSimple>
     <TrafficLight></TrafficLight> 
     <WaveString s="Привет!"></WaveString>
+    <CitySelecter></CitySelecter>
     </div>
   );
 }
